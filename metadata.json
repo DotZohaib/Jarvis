@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS — Real-Time AI Voice Assistant",
+  "description": "A futuristic, real-time voice-to-voice AI assistant powered by Gemini 3.8 Live with a 3D audio-reactive core, automatic turn detection, and multilingual conversation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
